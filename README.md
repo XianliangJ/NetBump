@@ -10,8 +10,8 @@ For more information:
 Installation instructions
 -------------------------
 
-$ mkdir build
-$ cd build
-$ ccmake ../src
-<type 'c' to configure, and 'g' to generate the Makefile>
-$ make
+    $ mkdir build
+    $ cd build
+    $ ccmake ../src
+    <type 'c' to configure, and 'g' to generate the Makefile>
+    $ make
